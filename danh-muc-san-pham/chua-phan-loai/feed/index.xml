@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Chưa phân loại &#8211; ecm</title>
+	<atom:link href="http://localhost/ecm/danh-muc-san-pham/chua-phan-loai/feed/?simply_static_page=81129" rel="self" type="application/rss+xml" />
+	<link>https://uit21522539.github.io/ecm</link>
+	<description></description>
+	<lastBuildDate>Sun, 21 May 2023 14:19:45 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://uit21522539.github.io/ecm/wp-content/uploads/2018/11/favicon.png</url>
+	<title>Chưa phân loại &#8211; ecm</title>
+	<link>https://uit21522539.github.io/ecm</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DORIS ROSEGOLD</title>
+		<link>https://uit21522539.github.io/ecm/san-pham/doris-rosegold/</link>
+					<comments>https://uit21522539.github.io/ecm/san-pham/doris-rosegold/#respond</comments>
+		
+		<dc:creator><![CDATA[TrucQuynh]]></dc:creator>
+		<pubDate>Sun, 21 May 2023 13:35:47 +0000</pubDate>
+				<guid isPermaLink="false">https://uit21522539.github.io/ecm/?post_type=product#038;p=4126</guid>
+
+					<description><![CDATA[Mẫu khuyên tai nữ Doris Cuff Rosegold &#8211; màu vàng hồng đẹp dịu dàng, nhã nhặn với kiểu dáng bo...]]></description>
+										<content:encoded><![CDATA[<p>Mẫu khuyên tai nữ Doris Cuff Rosegold &#8211; màu vàng hồng đẹp dịu dàng, nhã nhặn với kiểu dáng bo tròn tao nhã kết hợp chi tiết dây xích nhỏ mang đến một vẻ đẹp rất tự nhiên. Chất liệu thép không gỉ</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://uit21522539.github.io/ecm/san-pham/doris-rosegold/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
